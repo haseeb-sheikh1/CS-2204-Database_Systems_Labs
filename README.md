@@ -26,7 +26,7 @@ Every lab directory is fully self-contained, featuring dedicated schema definiti
 | **[LAB 10](./Lab-10-Scalar-String-Functions)** | Scalar Functions Part 01: String Sanitization & Extractions | `2024-SE-31-Lab10-String.sql` |
 | **[LAB 11](./Lab-11-Scalar-Numeric-Date)** | Scalar Functions Part 02: Numeric Calculations & Date Arithmetic | `2024-SE-31-Lab11-NumericDate.sql` |
 | **[LAB 12](./Lab-12-Aggregates)** | Aggregate Functions (`GROUP BY`, `HAVING`) & University Assessment | `2024-SE-31-Lab12-Aggregates.sql` |
-| **[LAB 13](./Lab-13-Open-Ended)** | Open-Ended Final Lab Challenge & Custom Implementation | `RollNo_Lab13_OpenEnded.sql` |
+| **[LAB 13](./Lab-13-Open-Ended)** | Open-Ended Final Lab Challenge & Custom Implementation | `2024-SE-31_Lab13_OpenEnded.sql` |
 
 ---
 
